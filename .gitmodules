@@ -1,0 +1,3 @@
+[submodule "specap8"]
+    path = specap8
+    url = git://github.com/veyis/specap8.git
